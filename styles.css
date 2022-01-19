@@ -1,11 +1,13 @@
 .profil {
-    background:center url("/assets/user_mano.png");
-    background-size: cover;
+    width: 100vw;
+    height: auto;
+    position: relative;
 }
 
 .btn-secundo {
-    margin-top: 550px;
-    margin-left: 700px;
+    top: 650px;
+    left: 725px;
+    position: absolute;
     background: center url("/assets/logo.png");
     background-size: cover;
     width: 600px;
