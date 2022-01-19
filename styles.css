@@ -5,8 +5,8 @@
 }
 
 .btn-secundo {
-    top: 650px;
-    left: 725px;
+    top: 70vh;
+    left: 39vw;
     position: absolute;
     background: center url("/assets/logo.png");
     background-size: cover;
