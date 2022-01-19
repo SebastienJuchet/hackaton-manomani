@@ -41,3 +41,19 @@
 .img-header {
     width: 60vw;
 }
+.figure {
+    margin: 40px 40px 1rem;
+}
+.h2 {
+    margin: revert;
+    font-size: 3rem;
+}
+
+.blockquote-footer {
+    font-size: 1rem;
+    text-align: justify;
+}
+
+.font-size {
+    font-size: 2rem;
+}
