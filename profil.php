@@ -11,8 +11,10 @@
 <body>
 <img src="assets/header.png" alt="" class="w-100">
 <div class="text-profil container-fluid d-flex h-50 align-items-center justify-content-center flex-wrap">
-    <div class="col-3 fs-2 mx-3 bg-white h-50 p-5">
-        <p class="text-profil">Vous avez trop ou pas assez: Profitez de l'offre <span class="text-mano">SECUNDO MANO</span></p>
+    <div class="col-3 fs-4 mx-3 bg-white h-50 p-5">
+        <p class="text-profil">Vous avez trop ou pas assez commandé: Profitez de l'offre <span class="text-mano">SECUNDO MANO</span>
+            <a class="nav-link text-mano fs-5 text-center" href="explication.php">En savoir plus</a>
+        </p>
     </div>
     <div class="col-3 bg-white div-link">
         <a href="secondo.php" class="img-logo">
