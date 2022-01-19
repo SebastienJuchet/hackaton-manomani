@@ -1,15 +1,19 @@
 .profil {
     width: 100vw;
     height: auto;
-    position: relative;
 }
 
 .btn-secundo {
-    top: 70vh;
-    left: 39vw;
-    position: absolute;
     background: center url("/assets/logo.png");
     background-size: cover;
     width: 600px;
-    height: 250px;
+    height: 200px;
+}
+
+.text-profil {
+    background-color: #f5f6f7;
+}
+
+.text-mano {
+    color: #4da7af;
 }
