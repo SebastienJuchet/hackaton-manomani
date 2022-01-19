@@ -34,3 +34,10 @@
 .text-mano {
     color: #4da7af;
 }
+
+.nav-link {
+    padding-right: 4.5rem!important;
+}
+.img-header {
+    width: 60vw;
+}
