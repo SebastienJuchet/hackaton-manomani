@@ -58,6 +58,11 @@
                             <i class="fas fa-search text-dark"></i>
                         </a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark align-top" href="#">
+                            <img class="pig" src="../assets/pig.png" alt=""> 65€
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
