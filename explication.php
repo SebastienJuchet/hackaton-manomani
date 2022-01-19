@@ -3,6 +3,7 @@
     require 'component/head.php'
     ?>
 <body>
+
 <?php
 require 'component/header.php'
 ?>
