@@ -1,4 +1,21 @@
-
 .bg-green {
     background-color: #16adb1;
+.profil {
+    width: 100vw;
+    height: auto;
+}
+
+.btn-secundo {
+    background: center url("/assets/logo.png");
+    background-size: cover;
+    width: 600px;
+    height: 200px;
+}
+
+.text-profil {
+    background-color: #f5f6f7;
+}
+
+.text-mano {
+    color: #4da7af;
 }
