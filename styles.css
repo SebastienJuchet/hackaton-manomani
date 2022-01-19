@@ -1,3 +1,13 @@
-body {
-    background-color: red;
+.profil {
+    background:center url("/assets/user_mano.png");
+    background-size: cover;
+}
+
+.btn-secundo {
+    margin-top: 550px;
+    margin-left: 700px;
+    background: center url("/assets/logo.png");
+    background-size: cover;
+    width: 600px;
+    height: 250px;
 }
