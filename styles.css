@@ -1,5 +1,6 @@
 .bg-green {
     background-color: #16adb1;
+}
 .profil {
     width: 100vw;
     height: auto;
@@ -18,4 +19,11 @@
 
 .text-mano {
     color: #4da7af;
+}
+
+.nav-link {
+    padding-right: 4.5rem!important;
+}
+.img-header {
+    width: 60vw;
 }
