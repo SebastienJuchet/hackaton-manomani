@@ -41,7 +41,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="../profil.php">
                             <i class="fas fa-search text-dark"></i>
                         </a>
                     </li>
