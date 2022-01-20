@@ -26,7 +26,7 @@ require 'component/header.php';
                         <label for="formFile" class="form-label">Image du produit</label>
                         <input class="form-control" type="file" id="formFile">
                     </div>
-                    <a href="" class="btn btn-mano text-white mt-3">Mettre en ligne</a>
+                    <a href="segundoFake.php" class="btn btn-mano text-white mt-3">Mettre en ligne</a>
                 </form>
             </div>
         </div>
