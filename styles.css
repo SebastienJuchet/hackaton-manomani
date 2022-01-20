@@ -67,4 +67,17 @@
 }
 .filter img {
     width: 12vw;
+
+.btn-mano {
+    background-color: #4da7af;
+}
+
+.btn-card {
+    background-color: #4da7af;
+    color: white;
+}
+
+.btn-card:hover {
+    background-color: #27828c;
+    color: white;
 }
