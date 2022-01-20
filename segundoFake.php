@@ -13,12 +13,12 @@ require 'component/header.php'
     <div class="row mx-auto">
         <div class="col-9 mx-auto d-flex">
             <div class="card m-4 align-content-around" style="width: 18rem;">
-                <img src="assets/projecteur.jpg" class="card-img-top" alt="...">
+                <img src="assets/demo/projecteur.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center d-flex flex-column align-items-end">
-                    <h5 class="card-title">5 Projecteurs LED 50W ProLine Blanc chaud 3000K Haute Luminosité - Blanc chaud 3000K</h5>
-                    <p class="card-text">Bonjour, je vend 2 projecteurs.</p>
+                    <h5 class="card-title">5 Projecteurs LED 50W ProLine Blanc chaud 3000K Haute Luminosité</h5>
+                    <p class="card-text">Bonjour, je vend 2 projecteur sur les 5 reçus.</p>
                     <div class="mt-auto mx-auto">
-                        <a href="show.php" class="btn btn-card text-center">Voir le produit</a>
+                        <a href="showNew.php" class="btn btn-card text-center">Voir le produit</a>
                     </div>
                 </div>
             </div>
