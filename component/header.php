@@ -9,10 +9,10 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto fw-bold text-uppercase">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto fw-bold text-uppercase align-items-end">
                     <li class="nav-item">
                         <a class="nav-link text-dark" href="">
-                            Vendre un produit ManoMano
+                            Vendre un produit
                         </a>
                     </li>
                     <li class="nav-item">
@@ -46,7 +46,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-dark align-top" href="#">
+                        <a class="nav-link text-dark" href="#">
                             <img class="pig" src="../assets/pig.png" alt=""> 65€
                         </a>
                     </li>

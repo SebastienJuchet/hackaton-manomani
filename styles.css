@@ -62,6 +62,12 @@
     width: 3rem;
 }
 
+.filter {
+    width: 13vw;
+}
+.filter img {
+    width: 12vw;
+
 .btn-mano {
     background-color: #4da7af;
 }
