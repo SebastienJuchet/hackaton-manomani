@@ -16,7 +16,7 @@
         </p>
     </div>
     <div class="col-3 bg-white div-link">
-        <a href="secondo.php" class="img-logo">
+        <a href="segundo.php" class="img-logo">
             <img src="assets/logo.png" alt="" class="img-button mx-auto">
         </a>
     </div>
