@@ -6,8 +6,10 @@
 <?php
 require 'component/header.php'
 ?>
-
 <div class="container-fluid">
+    <?php
+    require 'component/filter.php'
+    ?>
     <div class="row mx-auto">
             <div class="col-9 mx-auto d-flex">
                 <div class="card m-4 align-content-around" style="width: 18rem;">
