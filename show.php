@@ -8,7 +8,7 @@ include 'component/header.php';
         <h2 class="text-center text-mano">Scie Circulaire BOSCH GKS 18V-57 G Professional</h2>
         <div class="col-6 mx-auto mt-4">
             <div class="text-center">
-                <img src="assets/kitBosch.jpg" alt="" class="p-3 border">
+                <img src="assets/kitBosch.jpg" alt="" class="p-3 border show-product">
             </div>
             <h3 class="text-center text-mano my-4">Déscription</h3>
             <p class="fs-5 border p-3">
