@@ -54,46 +54,47 @@ require 'component/header.php'
                 </div>
             </div>
         <div class="col-9 mx-auto d-flex">
-            <div class="card m-4" style="width: 18rem;">
-                <img src="assets/carlage_neto.jpg" class="card-img-top" alt="...">
+            <div class="card m-4 align-content-around" style="width: 18rem;">
+                <img src="assets/projecteur.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center d-flex flex-column align-items-end">
-                    <h5 class="card-title">Série Canaletto Nero 20x20</h5>
-                    <p class="card-text">Bonjour, je vend 0.5m2 du carton commandé.</p>
+                    <h5 class="card-title">5 Projecteurs LED 50W ProLine Blanc chaud 3000K Haute Luminosité</h5>
+                    <p class="card-text">Bonjour, je vend 2 projecteur sur les 5 reçus.</p>
                     <div class="mt-auto mx-auto">
-                        <a href="#" class="btn btn-card text-center mt-4">Voir le produit</a>
+                        <a href="showNew.php" class="btn btn-card text-center">Voir le produit</a>
                     </div>
                 </div>
             </div>
-            <div class="card m-4" style="width: 18rem;">
-                <img src="assets/ampoule.jpg" class="card-img-top" alt="...">
-                <div class="card-body text-center d-flex flex-column align-items-end">
-                    <h5 class="card-title">Lot de 10 Ampoules LED GU10 5W eq. 40W 4000K Blanc Naturel</h5>
-                    <p class="card-text">Bonjour, je vend 5 des 10 ampoules achetés.</p>
-                    <div class="mt-auto mx-auto">
-                        <a href="#" class="btn btn-card text-center">Voir le produit</a>
+
+                <div class="card m-4" style="width: 18rem;">
+                    <img src="assets/ampoule.jpg" class="card-img-top" alt="...">
+                    <div class="card-body text-center d-flex flex-column align-items-end">
+                        <h5 class="card-title">Lot de 10 Ampoules LED GU10 5W eq. 40W 4000K Blanc Naturel</h5>
+                        <p class="card-text">Bonjour, je vend 5 des 10 ampoules achetés.</p>
+                        <div class="mt-auto mx-auto">
+                            <a href="#" class="btn btn-card text-center">Voir le produit</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card m-4" style="width: 18rem;">
-                <img src="assets/peinture.jpg" class="card-img-top" alt="...">
-                <div class="card-body text-center d-flex flex-column align-items-end">
-                    <h5 class="card-title">Peinture façade acrylique - durable jusqu'à 10 ans - rénovation façade, mur crépi - Blanc - 10L</h5>
-                    <p class="card-text">Bonjour, je revend mon pot de peinture, il en reste plus de la moitié.</p>
-                    <div class="mt-auto mx-auto">
-                        <a href="#" class="btn btn-card text-center">Voir le produit</a>
+                <div class="card m-4" style="width: 18rem;">
+                    <img src="assets/peinture.jpg" class="card-img-top" alt="...">
+                    <div class="card-body text-center d-flex flex-column align-items-end">
+                        <h5 class="card-title">Peinture façade acrylique - durable jusqu'à 10 ans - rénovation façade, mur crépi - Blanc - 10L</h5>
+                        <p class="card-text">Bonjour, je revend mon pot de peinture, il en reste plus de la moitié.</p>
+                        <div class="mt-auto mx-auto">
+                            <a href="#" class="btn btn-card text-center">Voir le produit</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card m-4" style="width: 18rem;">
-                <img src="assets/meche.jpg" class="card-img-top" alt="...">
-                <div class="card-body text-center d-flex flex-column align-items-end">
-                    <h5 class="card-title">460mm 6-28mm Hex Shank Point Brad Point Foret Tarière Foret Spirale Bois Outil De Forage - 16mm</h5>
-                    <p class="card-text">Bonjour, je vend les meches 24 mm, 26 mm, 28 mm (encore neuve).</p>
-                    <div class="mt-auto mx-auto">
-                        <a href="#" class="btn btn-card text-center">Voir le produit</a>
+                <div class="card m-4" style="width: 18rem;">
+                    <img src="assets/meche.jpg" class="card-img-top" alt="...">
+                    <div class="card-body text-center d-flex flex-column align-items-end">
+                        <h5 class="card-title">460mm 6-28mm Hex Shank Point Brad Point Foret Tarière Foret Spirale Bois Outil De Forage - 16mm</h5>
+                        <p class="card-text">Bonjour, je vend les meches 24 mm, 26 mm, 28 mm (encore neuve).</p>
+                        <div class="mt-auto mx-auto">
+                            <a href="#" class="btn btn-card text-center">Voir le produit</a>
+                        </div>
                     </div>
                 </div>
-            </div>
         </div>
         </div>
     </div>

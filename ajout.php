@@ -13,12 +13,12 @@ require 'component/header.php';
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Nom du produit</label>
                         <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                               value="5 Projecteurs LED 50W ProLine Blanc chaud 3000K Haute Luminosité"
+                               value="Série Canaletto Nero 20x20"
                         >
                     </div>
                     <div class="mb-3">
                         <label for="exampleFormControlTextarea1" class="form-label">Déscription</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" >Bonjour, je vend 2 projecteur sur les 5 reçus.</textarea>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" >Bonjour, je vend 0.5m2 du carton commandé.</textarea>
                     </div>
                     <div class="mb-3">
                         <label for="prix" class="form-label">Prix de vente</label>
