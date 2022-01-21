@@ -8,5 +8,5 @@
     <script src="https://kit.fontawesome.com/acc585e2c3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="shortcut icon" href="../assets/fivicon.png">
-    <title>Document</title>
+    <title>SegundoMano</title>
 </head>
